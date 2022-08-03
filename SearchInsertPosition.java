@@ -9,6 +9,7 @@ class Solution {
             }
         }
         return nums.length;
+        //return array length
     }
 
     public static void main(String[] args) {
