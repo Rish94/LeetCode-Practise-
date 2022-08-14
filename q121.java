@@ -15,7 +15,6 @@ public class q121 {
                 if(max<prices[j]){
                     max = prices[j];
                 }
-                System.out.println("max no"  + max);
             }
             if(max>num){
                 arr.add(Math.abs(num-max));
