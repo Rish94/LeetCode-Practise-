@@ -5,7 +5,7 @@ import javax.print.attribute.SupportedValuesAttribute;
 import java.lang.*;
 public class q121 {
     public static void main(String[] args) {
-        int prices[] = {7,5,1,4,6,2};
+        int prices[] = {2,4,1};
         
         ArrayList<Integer> arr = new ArrayList<>();
         for(int i=0;i<prices.length;i++){
